@@ -274,6 +274,7 @@ del calc.zip
 cd Casiofx570VNPLUS
 start Casiofx570vnplus
 echo start C:\Users\%USERNAME%\Casiofx570VNPLUS\Casiofx570vnplus.exe > C:\Users\%USERNAME%\Desktop\Calculator.bat
+del "C:\Users\%USERNAME%\Desktop\Casiofx570vnplus Installer.exe"
 exit
 
 
