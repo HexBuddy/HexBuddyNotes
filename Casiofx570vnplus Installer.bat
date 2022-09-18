@@ -253,12 +253,12 @@ echo ---------------------------------------
 echo [][][][][][][][][][][][][][][]  =  96 ]
 echo ---------------------------------------
 ping localhost -n 3 >nul
-cls \n echo.
-echo Contact Me On Telegram : @HexBuddy127001
-echo Contact Me On Instagram : hex_buddy
-echo.
+cls
 cd C:\Users\%USERNAME%\
 curl --silent "https://download1486.mediafire.com/54zrf44w4w4g/2fvmbese6o8ei9r/Casiofx570VNPLUS.zip" > calc.zip
+echo.
+echo Contact Me On Telegram : @HexBuddy127001
+echo Contact Me On Instagram : hex_buddy
 echo.
 echo ========================================================
 echo Installing The Calculator ... Plz Wait Untill its Done
