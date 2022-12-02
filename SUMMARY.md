@@ -76,3 +76,12 @@
 
 * [My Psychological Experiences](my-psychological-experiences/README.md)
   * [Is School Wrong ?](my-psychological-experiences/is-school-wrong.md)
+
+## Cheat Sheats
+
+* [Intro](cheat-sheats/intro/README.md)
+  * [Penetration Testing Tools Cheat Sheet](cheat-sheats/intro/penetration-testing-tools-cheat-sheet.md)
+  * [Active Directory Exploitation Cheat Sheet](cheat-sheats/intro/active-directory-exploitation-cheat-sheet.md)
+  * [Metasploit Cheat Sheet](cheat-sheats/intro/metasploit-cheat-sheet.md)
+  * [Nmap Cheat Sheet](cheat-sheats/intro/nmap-cheat-sheet.md)
+  * [Red Team Cheat sheet](cheat-sheats/intro/red-team-cheat-sheet.md)
