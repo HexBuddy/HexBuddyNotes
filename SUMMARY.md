@@ -71,6 +71,7 @@
 ## Troubleshooting
 
 * [Introduction](troubleshooting/introduction.md)
+* [Windows](troubleshooting/windows.md)
 
 ***
 
