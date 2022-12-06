@@ -39,4 +39,4 @@
 
 ## 👾 AV / EDR Bypass & Defenses 👾
 
-* [AV Bypass](av-edr-bypass-and-defenses/av-bypass.md)
+* [Bypass AV Software by Obfuscating Your Payloads](av-edr-bypass-and-defenses/bypass-av-software-by-obfuscating-your-payloads.md)
