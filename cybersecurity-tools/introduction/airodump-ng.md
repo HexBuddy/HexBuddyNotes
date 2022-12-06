@@ -1,2 +1,0 @@
-# Airodump-ng
-

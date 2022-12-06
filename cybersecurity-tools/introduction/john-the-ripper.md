@@ -1,2 +1,0 @@
-# John The Ripper
-
