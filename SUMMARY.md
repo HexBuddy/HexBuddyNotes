@@ -28,6 +28,7 @@
   * [The Basics of Exploit Development 2: SEH Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-2-seh-overflows.md)
   * [The Basics of Exploit Development 3: Egg Hunters](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-3-egg-hunters.md)
   * [The Basics of Exploit Development 4: Unicode Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-4-unicode-overflows.md)
+* [Windows Exploit Development](binary-exploitation/windows-exploit-development.md)
 
 ## 🔧 Troubleshooting
 
