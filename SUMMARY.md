@@ -6,6 +6,8 @@
 ## 🛠️ Cybersecurity Tool&#x20;
 
 * [Nmap](cybersecurity-tool/nmap.md)
+* [Sherlock](cybersecurity-tool/sherlock.md)
+* [Metasploit](cybersecurity-tool/metasploit.md)
 
 ## ‎‍👤 Binary Exploitation ‎‍👤
 
