@@ -2,12 +2,15 @@
 
 * [😃 Wanna Be a Hacker ?](README.md)
 * [😎 Whoami ?](whoami.md)
+* [Lab Setup](lab-setup.md)
 
 ## 🛠️ Cybersecurity Tool&#x20;
 
 * [Nmap](cybersecurity-tool/nmap.md)
 * [Sherlock](cybersecurity-tool/sherlock.md)
 * [Metasploit](cybersecurity-tool/metasploit.md)
+* [Nikto](cybersecurity-tool/nikto.md)
+* [Legion](cybersecurity-tool/legion.md)
 
 ## ‎‍👤 Binary Exploitation ‎‍👤
 
