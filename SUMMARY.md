@@ -6,19 +6,28 @@
 
 ## 🛠️ Cybersecurity Tool&#x20;
 
-* [Nmap](cybersecurity-tool/nmap.md)
-* [Sherlock](cybersecurity-tool/sherlock.md)
-* [Metasploit](cybersecurity-tool/metasploit.md)
-* [Nikto](cybersecurity-tool/nikto.md)
-* [Legion](cybersecurity-tool/legion.md)
+* [OSINT](cybersecurity-tool/osint/README.md)
+  * [Sherlock](cybersecurity-tool/osint/sherlock.md)
+* [Network](cybersecurity-tool/network/README.md)
+  * [Nmap](cybersecurity-tool/network/nmap.md)
+  * [Legion](cybersecurity-tool/network/legion.md)
+* [Web](cybersecurity-tool/web/README.md)
+  * [Nikto](cybersecurity-tool/web/nikto.md)
+* [Exploitation](cybersecurity-tool/exploitation/README.md)
+  * [Metasploit](cybersecurity-tool/exploitation/metasploit.md)
+* [Forensics](cybersecurity-tool/forensics.md)
+* [Analysis & Reversing](cybersecurity-tool/analysis-and-reversing/README.md)
+  * [Immunity Debugger](cybersecurity-tool/analysis-and-reversing/immunity-debugger.md)
+* [CTF](cybersecurity-tool/ctf.md)
 
 ## ‎‍👤 Binary Exploitation ‎‍👤
 
 * [An Introduction To Binary Exploitation](binary-exploitation/an-introduction-to-binary-exploitation.md)
-* [The Basics of Exploit Development 1: Win32 Buffer Overflows](binary-exploitation/exploit-development-basics/the-basics-of-exploit-development-1-win32-buffer-overflows.md)
-* [The Basics of Exploit Development 2: SEH Overflows](binary-exploitation/exploit-development-basics/the-basics-of-exploit-development-2-seh-overflows.md)
-* [The Basics of Exploit Development 3: Egg Hunters](binary-exploitation/the-basics-of-exploit-development-3-egg-hunters.md)
-* [The Basics of Exploit Development 4: Unicode Overflows](binary-exploitation/exploit-development-basics/the-basics-of-exploit-development-4-unicode-overflows.md)
+* [Exploit Development Introduction](binary-exploitation/exploit-development-introduction/README.md)
+  * [The Basics of Exploit Development 1: Win32 Buffer Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-1-win32-buffer-overflows.md)
+  * [The Basics of Exploit Development 2: SEH Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-2-seh-overflows.md)
+  * [The Basics of Exploit Development 3: Egg Hunters](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-3-egg-hunters.md)
+  * [The Basics of Exploit Development 4: Unicode Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-4-unicode-overflows.md)
 
 ## 🔧 Troubleshooting
 
@@ -41,3 +50,7 @@
 ## 👾 AV / EDR Bypass & Defenses 👾
 
 * [Bypass AV Software by Obfuscating Your Payloads](av-edr-bypass-and-defenses/bypass-av-software-by-obfuscating-your-payloads.md)
+
+***
+
+* [Page 1](page-1.md)
