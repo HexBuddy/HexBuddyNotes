@@ -15,11 +15,11 @@
   * [Nikto](cybersecurity-tool/web/nikto.md)
 * [Exploitation](cybersecurity-tool/exploitation/README.md)
   * [Metasploit](cybersecurity-tool/exploitation/metasploit.md)
-* [Forensics](cybersecurity-tool/forensics/README.md)
+* [Forensics](cybersecurity-tool/forensics.md)
   * [TCPDump](cybersecurity-tool/forensics/tcpdump.md)
 * [Analysis & Reversing](cybersecurity-tool/analysis-and-reversing/README.md)
   * [Immunity Debugger](cybersecurity-tool/analysis-and-reversing/immunity-debugger.md)
-* [CTF](cybersecurity-tool/ctf/README.md)
+* [CTF](cybersecurity-tool/ctf.md)
   * [Best Tooling For CTF](cybersecurity-tool/ctf/best-tooling-for-ctf.md)
 
 ## ‎‍👤 Binary Exploitation ‎‍👤
@@ -31,6 +31,18 @@
   * [The Basics of Exploit Development 3: Egg Hunters](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-3-egg-hunters.md)
   * [The Basics of Exploit Development 4: Unicode Overflows](binary-exploitation/exploit-development-introduction/the-basics-of-exploit-development-4-unicode-overflows.md)
 * [Windows Exploit Development](binary-exploitation/windows-exploit-development.md)
+* [Linux Kernel Exploitation](binary-exploitation/linux-kernel-exploitation/README.md)
+  * [Setting Up the Environment](binary-exploitation/linux-kernel-exploitation/setting-up-the-environment.md)
+  * [Introduction to PEDA and Pwntools](binary-exploitation/linux-kernel-exploitation/introduction-to-peda-and-pwntools.md)
+  * [Classic Exploitation Technique](binary-exploitation/linux-kernel-exploitation/classic-exploitation-technique.md)
+  * [Linux Binary Protections](binary-exploitation/linux-kernel-exploitation/linux-binary-protections.md)
+  * [Bypassing NX with Return Oriented Programming](binary-exploitation/linux-kernel-exploitation/bypassing-nx-with-return-oriented-programming.md)
+  * [Bypassing NX with Ret2Libc](binary-exploitation/linux-kernel-exploitation/bypassing-nx-with-ret2libc.md)
+  * [ASLR in Depth](binary-exploitation/linux-kernel-exploitation/aslr-in-depth.md)
+  * [Bypassing ASLR/NX with Ret2PLT](binary-exploitation/linux-kernel-exploitation/bypassing-aslr-nx-with-ret2plt.md)
+  * [Bypassing ASLR/NX with GOT Overwrite](binary-exploitation/linux-kernel-exploitation/bypassing-aslr-nx-with-got-overwrite.md)
+  * [Multi-Stage Exploits](binary-exploitation/linux-kernel-exploitation/multi-stage-exploits.md)
+  * [Format String Vulnerabilties](binary-exploitation/linux-kernel-exploitation/format-string-vulnerabilties.md)
 
 ## 🔧 Troubleshooting
 
