@@ -67,7 +67,3 @@
 ## 👾 AV / EDR Bypass & Defenses
 
 * [Bypass AV Software by Obfuscating Your Payloads](av-edr-bypass-and-defenses/bypass-av-software-by-obfuscating-your-payloads.md)
-
-***
-
-* [Page 1](page-1.md)

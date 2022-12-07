@@ -27,3 +27,15 @@ Here is an Image To See the Proccess ... CLICK ON IT TO HAVE A BETTER VIEW
 
 &#x20;![](<../.gitbook/assets/image (2).png>)
 
+
+
+```arturo
+--------------------------------------------------------------------------------
+```
+
+## &#x20;Remove Linux from Dual Boot
+
+
+
+
+
