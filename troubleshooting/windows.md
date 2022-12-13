@@ -25,7 +25,7 @@ Done ! ..... I Hope this was useful&#x20;
 
 Here is an Image To See the Proccess ... CLICK ON IT TO HAVE A BETTER VIEW
 
-&#x20;![](<../.gitbook/assets/image (2) (1).png>)
+&#x20;![](<../.gitbook/assets/image (2).png>)
 
 
 

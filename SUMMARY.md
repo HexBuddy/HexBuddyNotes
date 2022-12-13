@@ -11,6 +11,7 @@
 * [Network](cybersecurity-tool/network/README.md)
   * [Nmap](cybersecurity-tool/network/nmap.md)
   * [Legion](cybersecurity-tool/network/legion.md)
+  * [Xerosploit](cybersecurity-tool/network/xerosploit.md)
 * [Web](cybersecurity-tool/web/README.md)
   * [Nikto](cybersecurity-tool/web/nikto.md)
 * [Exploitation](cybersecurity-tool/exploitation/README.md)
