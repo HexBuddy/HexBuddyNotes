@@ -28,6 +28,16 @@ its a Sort of Hard Question To answer Cuz every Person have his own way of under
 
 **So as a beginner ... Uncle YouTube is going to be your best and first friend in this long journey ... YouTube contains a content for all levels in cybersecurity ... especially now days content creators about cybersecurity and computer science and security are getting better and spreading much more everyday ... BUT !!!! ... in this " Getting Started " Part ... I will be sharing Videos and Courses (Playlists) that i recommend watching as a no experience person intrested in cybersecurity**
 
+## **Important Note For Beginners**&#x20;
+
+{% hint style="info" %}
+Getting Into This Field **Does Not** Require a Smart Person ... There Is Nothing Called Smart Or Stupid ... There a person who works hard and loves what he is doing ... and another person who Does not want to work hard ... Cybersecurity is a Field Where you **need** to have the passion to **work** and the **love to explore** and learn more
+
+<mark style="color:yellow;">**Everyone Can Do it**</mark> ... that Means **YOU CAN** be successful now ... its ok iif you failed or you did not understanded some shit ... but thru more practice and Getting Your Hands Dirty WIth The diffrent Technologies Out There ... You Will see the amazing results that will come out of your ideas and skills which will give the great career &#x20;
+
+So From Now .... Just Start In Something .. **Pic Something Up And Start Learning !!**
+{% endhint %}
+
 ****
 
 ### Number 0 : Professor Messer
@@ -172,13 +182,35 @@ One of the Best  Cybersecurity Gitbooks Online, Filled With Amazing Notes About 
 
 {% embed url="https://book.hacktricks.xyz/" %}
 
-### Nightmare - Binary Exploitation
+### Pentesting For N00bs By [Heath Adams](https://www.linkedin.com/in/heathadams)
+
+Now This Playlist Will GIve You The Basic Skills to start "Swiftly" into Discovering, Learning and Even Building The Career ... or Which I call "Hands On Terminal" ... So I reeally Recommend it For People Who is New To The Field
+
+Watch The Full Playlist On Youtube: [https://www.youtube.com/playlist?list=PLLKT\_\_MCUeiyxF54dBIkzEXT7h8NgqQUB](https://www.youtube.com/playlist?list=PLLKT\_\_MCUeiyxF54dBIkzEXT7h8NgqQUB)
+
+<figure><img src=".gitbook/assets/Screenshot 2022-12-13 095436.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Stream VODs By [Alh4zr3d](https://www.youtube.com/@alh4zr3d3)
+
+This Playlist Will Simply Show You How People Think And Try To Solve Problems In Cybersecurity Thru Solving CTF Challenges
+
+Watch the Full Playlist In Youtube: [https://www.youtube.com/playlist?list=PLi4eaGO3umboaOqaot7Oi7WszkSWRc4Pi](https://www.youtube.com/playlist?list=PLi4eaGO3umboaOqaot7Oi7WszkSWRc4Pi)
+
+<figure><img src=".gitbook/assets/Screenshot 2022-12-11 103802.png" alt=""><figcaption></figcaption></figure>
+
+
+
+&#x20;
+
+Nightmare - Binary Exploitation By [guyinatuxedo ](https://github.com/guyinatuxedo)
 
 This Repo Is the reason i got Experienced in Binary Exploitation and Reverse Engineering through playing CTFs ... Highly Recommend it out
 
 {% embed url="https://guyinatuxedo.github.io/" %}
 
-### Active Directory Exploitation Cheat Sheet
+### Active Directory Exploitation Cheat Sheet By [S1ckB0y1337](https://github.com/S1ckB0y1337)
 
 This GitHub Repo Contains all the tooling techniques _****_ that you would need in an AD Pentest
 
@@ -190,7 +222,7 @@ Another Red, Blue and Purple Teams Engagement Online Blog Posting Service
 
 {% embed url="https://vk9-sec.com/" %}
 
-### **Performance Ninja**
+### **Performance Ninja By** [Denis Bakhvalov ](https://twitter.com/dendibakh?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 **Performance Ninja Class is a FREE self-paced online course for developers who want to master Software performance tuning.**
 
