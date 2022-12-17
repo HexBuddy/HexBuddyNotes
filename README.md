@@ -242,6 +242,10 @@ In this course, you will practice analyzing and improving performance of your ap
 
 {% embed url="https://www.hackingarticles.in/" %}
 
+{% embed url="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE" %}
+**Now This Right Here... Is Not Just a One Blogs .... This Contains THOUSANDS Of Cybersecurity And IT Security Related Blogs Relate Topica**
+{% endembed %}
+
 {% embed url="https://securityonline.info/" %}
 
 {% embed url="https://www.inversecos.com/" %}
