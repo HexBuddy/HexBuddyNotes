@@ -250,7 +250,9 @@ In this course, you will practice analyzing and improving performance of your ap
 
 {% embed url="https://www.inversecos.com/" %}
 
-
+{% embed url="https://www.vx-underground.org/" %}
+**amazing criminal site for malware geeks**
+{% endembed %}
 
 {% embed url="https://thedfirreport.com/" %}
 
