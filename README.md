@@ -8,7 +8,7 @@ description: Introduction To what is Hacking and Cybersecurity
 
 No am not going to use Google, In Simple Words a Hacker is a Person who Tries To Gain access to a System Or Network in an Unusual way ( Ethical Hacker )
 
-Hacking is a creative sport and it's a collaborative sport people team up and you can team up over the Internet and having the best hackers out there give their best for a couple of weeks and then you get this creative outburst that you will never have seen before, also, on a technological level, you get the opportunity to see infrastructure that you've never seen before or new technologies that you have never seen before, it's really awesome to see everybody working and making the Internet safer, that is the true power of a live hacking event
+Hacking is a creative sport and it's a collaborative sport people team up and you can team up over the Internet and having the best hackers out there give their best for a couple of weeks and then you get this creative outburst that you will never have seen before, also, on a technological level, you get the opportunity to see infrastructure that you've never seen before or new technologies that you have never seen before, it's really awesome to see everybody working and making the Internet safer, that is the true power of a Hacker
 
 > _A lot of people think of hackers as geeky computer nerds who live in their parent's basement, and spread computer viruses. But, I don't see it that way. Hackers are innovators. Hackers are people who challenge and change the systems to make them work differently, to make them work better. It's just how they think, it's a mindset. I'm growing up in a world that needs more people with the hacker mindset, and not just for technology. Everything is up for being hacked, even skiing, even education. So whether it's Steve Jobs, Mark Zuckerberg or Shane McConkey, having the hacker mindset can change the world. Healthy, happy, creativity, and the hacker mindset are all a large part of my education_
 >
@@ -40,7 +40,7 @@ So From Now .... Just Start In Something .. **Pic Something Up And Start Learnin
 
 ****
 
-### Number 0 : Professor Messer
+## Number 0 : Professor Messer
 
 this person is amazing at creating content and courses for Free for people are interested in CompTIA+ and they wanna get familiar with technologies out there ... i recommend checking out the " Training Playlists " ... starting with this Playlist .... watch the Video on YouTube To See the Full Playlist  :-
 
@@ -50,13 +50,15 @@ this person is amazing at creating content and courses for Free for people are i
 
 ### &#x20;
 
-### Number 1 :- Explaining Computers&#x20;
+## Number 1 :- Computerphile&#x20;
 
-This Person Gives You An Essential Necessary Knowledge That You Will Need In The Future&#x20;
+This Channel Gives You An Essential Necessary Knowledge That You Will Need In The Future&#x20;
 
-{% embed url="https://www.youtube.com/c/explainingcomputers" %}
+_**I would Recommend Watching a Video Every Day If You Can ... It Would Be Freaking Informative**_
 
-### Number 2 :-
+{% embed url="https://www.youtube.com/@Computerphile" %}
+
+## Number 2 :-
 
 This Video is really informative .... Its Unlike all other Tutorials ... He will Explain How the Programming and coding Process Start From the Hard Disk Until The Code Execution In The Memory :-
 
@@ -72,13 +74,39 @@ _**Check Out His Channel Too ... It Contains A Lot Of Useful Ideologies In the C
 
 
 
-### Number 3 : How To Get Into Hacking ? :- MOST USEFUL ADVICE ON THE PLANET !!!
+## Number 3 : How To Get Into Hacking ? :- MOST USEFUL ADVICE ON THE PLANET !!!
 
 {% embed url="https://www.youtube.com/watch?v=0Ejj2aBG5c8" %}
 
-
-
 ##
+
+## Number 4 : Understanding Cryptography :
+
+
+
+Those Are URLs (YouTube Playlists) To The Most Useful Cryptography from The Security Perspective That I had Ever seen
+
+### 1. Introduction to Cryptography by [Christof Paar](https://www.youtube.com/@introductiontocryptography4223)
+
+[https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
+
+### 2. Cryptography & Network Security By [Neso Academy](https://www.youtube.com/@nesoacademy)
+
+[https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX)
+
+
+
+## Number 5 :&#x20;
+
+### Security Study Plan
+
+Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+
+{% embed url="https://github.com/jassics/security-study-plan" %}
+
+
+
+
 
 ## My Resources For Learning Cybersecurity
 
@@ -167,10 +195,6 @@ Every Book about Cybersecurity You Would Think of will Be Here !!
 ### Linux Rootkits for Red-Blue Teams
 
 {% embed url="https://mega.nz/folder/1ssglKza#QMX3D8UxB-W0AwMIQkbArA" %}
-
-### Sans Sec760
-
-{% embed url="https://mega.nz/folder/4llhiAZD#AcUO_qnXw5i3SG5VJDkxqg" %}
 
 
 
@@ -319,6 +343,12 @@ Free Programming Basics Channel  ( My Favorite btw ;) ) :&#x20;
 {% embed url="https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ" %}
 **This is ma giga chad man ... his explanations are really friendly and helped to get into it since i was 15**
 {% endembed %}
+
+Contains Couples Playlists About Prigramming In Few Langs
+
+{% embed url="https://www.youtube.com/@nesoacademy/playlists?view=50&sort=dd&shelf_id=3" %}
+
+
 
 \-----------------------------------------------------------------
 
