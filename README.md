@@ -82,6 +82,8 @@ _**Check Out His Channel Too ... It Contains A Lot Of Useful Ideologies In the C
 
 ## Number 4 : Understanding Cryptography :
 
+Cryptography Is Really necessarily important If We Are Talking From The Tech Side ... Is a Defensive Machinism Used In Nearly Every Computer System Or Operation ... So Understanding It Will Give Us the Ability TO Break, Defend and Even Build a More Better Encrypted Network And Tech Services To The Online Users
+
 
 
 Those Are URLs (YouTube Playlists) To The Most Useful Cryptography from The Security Perspective That I had Ever seen
