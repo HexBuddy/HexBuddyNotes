@@ -24,6 +24,11 @@
 * [CTF](cybersecurity-tool/ctf.md)
   * [Best Tooling For CTF](cybersecurity-tool/ctf/best-tooling-for-ctf.md)
 
+***
+
+* [WordPress Enumeration Techniques](wordpress-enumeration-techniques/README.md)
+  * [WordPress Enumeration Techniques](wordpress-enumeration-techniques/wordpress-enumeration-techniques.md)
+
 ## 🥷 Binary Exploitation ‎
 
 * [An Introduction To Binary Exploitation](binary-exploitation/an-introduction-to-binary-exploitation.md)
