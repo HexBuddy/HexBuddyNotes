@@ -4,8 +4,6 @@ description: About Me
 
 # 😎 Whoami ?
 
-<figure><img src=".gitbook/assets/77777777777777777777777.jpg" alt=""><figcaption></figcaption></figure>
-
 ### Hey There! .... I am a 17 Years old High schooler Loves to Play CTFs , Read, Explore and Create Different Topics about Cybersecurity, I Have Started From a Web Developer Field, I Came From a Web Developer and Doxing Background&#x20;
 
 ### &#x20;I Have Worked With and Much Interest On The Following Fields:
