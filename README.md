@@ -38,7 +38,7 @@ Getting Into This Field **Does Not** Require a Smart Person ... There Is Nothing
 So From Now .... Just Start In Something .. **Pic Something Up And Start Learning !!**
 {% endhint %}
 
-****
+
 
 ## Number 0 : Professor Messer
 
@@ -124,7 +124,7 @@ Every Book about Cybersecurity You Would Think of will Be Here !!
 
 {% embed url="https://beta.hide01.ir/" %}
 
-`This Website` ** `Above`**` ``Is Freaking Incredible For Leaked Courses And Tools ... Enjoy it`&#x20;
+`This Website` **`Above`**` ``Is Freaking Incredible For Leaked Courses And Tools ... Enjoy it`&#x20;
 
 ## Links To Most Educative Courses&#x20;
 
@@ -238,7 +238,7 @@ This Repo Is the reason i got Experienced in Binary Exploitation and Reverse Eng
 
 ### Active Directory Exploitation Cheat Sheet By [S1ckB0y1337](https://github.com/S1ckB0y1337)
 
-This GitHub Repo Contains all the tooling techniques _****_ that you would need in an AD Pentest
+This GitHub Repo Contains all the tooling techniques that you would need in an AD Pentest
 
 {% embed url="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet" %}
 
