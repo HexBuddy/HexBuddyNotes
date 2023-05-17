@@ -107,7 +107,7 @@ Running a scan on target SSL or TLS
 
 <figure><img src="https://www.techyrick.com/wp-content/uploads/2021/09/2021-09-26-19_08_22-Debian-10.x-64-bit-VMware-Workstation-16-Player-Non-commercial-use-only.webp" alt="ssl scan"><figcaption></figcaption></figure>
 
-``
+
 
 #### Example4:
 

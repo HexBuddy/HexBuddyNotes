@@ -26,7 +26,7 @@ In addition a knowledge of basic Linux commands, access to the following tools (
    * ‘[_**strings**_](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)‘ – Linux command to view visible text characters
    * ‘[_**binwalk**_](https://tools.kali.org/forensics/binwalk)‘ – Linux command to extract embedded files and executables
    * [**Digital Invisible Ink Toolkit**](http://diit.sourceforge.net/) – hide/extract files from inside an image&#x20;
-   * [**Steghide**](http://steghide.sourceforge.net/) **** – open source steganography software (Linux)
+   * [**Steghide**](http://steghide.sourceforge.net/)  – open source steganography software (Linux)
    * [**Stegosuite**](https://stegosuite.org/) – a free steganography tool written in Java (Linux).
    * [**pngcheck**](http://www.libpng.org/pub/png/apps/pngcheck.html) – look for/correct broken chunks.
    * [**GeorgeOM.net**](https://georgeom.net/StegOnline/upload) – Geo Explore Colour & Bit Planes (Go to “Browse Bit Planes”)
@@ -40,17 +40,17 @@ In addition a knowledge of basic Linux commands, access to the following tools (
    * [**Vernan**](https://www.dcode.fr/vernam-cipher-vigenere) **(**[**One-time Pad**](https://en.wikipedia.org/wiki/One-time\_pad)**)**
    * [**Rail Fence Cipher (ZigZag)**](http://rumkin.com/tools/cipher/railfence.php)
 5. [**Password Cracking**](http://www.hucerc.com/?page\_id=2443)**:**
-   1. [**Hash-Identifier**](https://tools.kali.org/password-attacks/hash-identifier) **** – Identifies hash type (Kali)
-   2. [**Hashcat**](https://hashcat.net/wiki/doku.php?id=hashcat) **** – HASH cracking tool (Kali)
+   1. [**Hash-Identifier**](https://tools.kali.org/password-attacks/hash-identifier) – Identifies hash type (Kali)
+   2. [**Hashcat**](https://hashcat.net/wiki/doku.php?id=hashcat)  – HASH cracking tool (Kali)
    3. **Crackstation** – Browser based Hash Cracker:  ([https://crackstation.net/](https://crackstation.net/))
-   4. [**md5sum**](https://en.wikipedia.org/wiki/Md5sum) **** – calculates/verifies 128-bit [MD5](https://en.wikipedia.org/wiki/MD5) [hashes](https://en.wikipedia.org/wiki/Cryptographic\_hash\_function),
+   4. [**md5sum**](https://en.wikipedia.org/wiki/Md5sum) – calculates/verifies 128-bit [MD5](https://en.wikipedia.org/wiki/MD5) [hashes](https://en.wikipedia.org/wiki/Cryptographic\_hash\_function),
    5. [**John the Ripper**](https://en.wikipedia.org/wiki/John\_the\_Ripper) – Detect and crack weak PWs (Kali).
    6. [**Rockyou.txt WordList**](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt) (download) –  contains 14m unique PWs (Kali).
 6. [**Web Exploitation**:](http://www.hucerc.com/?page\_id=2447)
    1. **/robots.txt –**  lists pages or files that search engines can’t request,
    2. [**Dirbuster**](https://tools.kali.org/web-applications/dirbuster) **–** brute force discovery of **hidden** directories/files (Kali)
    3. [**Development Tools**](https://developers.google.com/web/tools/chrome-devtools#discover) **–** Browser option use to inspect source and cookies.
-   4. **User Agent Extension** – allows browser to switch user agent **** .
+   4. **User Agent Extension** – allows browser to switch user agent .
 7. [**Log Analysis:**](http://www.hucerc.com/?page\_id=2193)
    * See [Basic Linux Commands](http://www.hucerc.com/?page\_id=1977)
 8. [**Scanning:**](http://www.hucerc.com/?page\_id=2382)

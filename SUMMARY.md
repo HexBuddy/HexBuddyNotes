@@ -58,6 +58,7 @@
 * [Windows](troubleshooting/windows.md)
 * [WSL](troubleshooting/wsl.md)
 * [Kali Linux](troubleshooting/kali-linux.md)
+* [Raspberry Pi](troubleshooting/raspberry-pi.md)
 
 ***
 
