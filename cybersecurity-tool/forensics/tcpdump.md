@@ -536,6 +536,6 @@ The tcpdump command line interface provides great flexibility for capturing and 
 
 One benefit of Wireshark is that it can read `.pcap` files captured by tcpdump. You can use tcpdump to capture packets in a remote machine that does not have a GUI and analyze the result file with Wireshark, but that is a topic for another day.
 
-***
+
 
 _This article was originally published in October 2018 and has been updated by_ [_Seth Kenlon_](https://opensource.com/users/seth)_._

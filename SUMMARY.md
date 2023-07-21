@@ -23,6 +23,8 @@
   * [Immunity Debugger](cybersecurity-tool/analysis-and-reversing/immunity-debugger.md)
 * [CTF](cybersecurity-tool/ctf.md)
   * [Best Tooling For CTF](cybersecurity-tool/ctf/best-tooling-for-ctf.md)
+  * [TryHackMe](cybersecurity-tool/ctf/tryhackme/README.md)
+    * [Adventure Time](cybersecurity-tool/ctf/tryhackme/adventure-time.md)
 
 ***
 
