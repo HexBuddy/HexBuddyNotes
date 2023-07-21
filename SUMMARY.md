@@ -25,6 +25,13 @@
   * [Best Tooling For CTF](cybersecurity-tool/ctf/best-tooling-for-ctf.md)
   * [TryHackMe](cybersecurity-tool/ctf/tryhackme/README.md)
     * [Adventure Time](cybersecurity-tool/ctf/tryhackme/adventure-time.md)
+    * [Anonforce](cybersecurity-tool/ctf/tryhackme/anonforce.md)
+  * [HackTheBox](cybersecurity-tool/ctf/hackthebox/README.md)
+    * [Lame](cybersecurity-tool/ctf/hackthebox/lame.md)
+    * [Copy of Page 1](cybersecurity-tool/ctf/hackthebox/copy-of-page-1.md)
+    * [Copy of Copy of Page 1](cybersecurity-tool/ctf/hackthebox/copy-of-copy-of-page-1.md)
+    * [Copy of Page 1](cybersecurity-tool/ctf/hackthebox/copy-of-page-1-1.md)
+    * [Copy of Copy of Page 1](cybersecurity-tool/ctf/hackthebox/copy-of-copy-of-page-1-1.md)
 
 ***
 
